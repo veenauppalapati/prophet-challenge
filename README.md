@@ -11,7 +11,7 @@ This project is my Module 8 challenge in the AI Bootcamp. It focuses on investig
 - **Input Data:**
     - [MercadoLibre Data](https://static.bc-edx.com/ai/ail-v-1-0/m8/lms/datasets/google_hourly_search_trends.csv)
 
-    - [Stock Price Data]("https://static.bc-edx.com/ai/ail-v-1-0/m8/lms/datasets/mercado_stock_price.csv)
+    - [Stock Price Data](https://static.bc-edx.com/ai/ail-v-1-0/m8/lms/datasets/mercado_stock_price.csv)
 
 ## Project Structure
 
